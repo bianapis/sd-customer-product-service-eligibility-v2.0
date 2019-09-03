@@ -1,0 +1,23 @@
+{
+  "date" : "09-22-2018",
+  "customerEligibilityAssessmentRetrieveActionTaskRecord" : {},
+  "customerEligibilityAssessmentInstanceReportRecord" : {
+    "customerEligibilityAssessmentInstanceReportType" : "customerEligibilityAssessmentInstanceReportType",
+    "customerEligibilityAssessmentInstanceReport" : {},
+    "customerEligibilityAssessmentInstanceReportData" : "customerEligibilityAssessmentInstanceReportData"
+  },
+  "customerEligibilityAssessmentInstanceRecord" : {
+    "customerProductServiceTypeEligibility" : "customerProductServiceTypeEligibility",
+    "customerReference" : "768455",
+    "customerProductServiceProfile" : "customerProductServiceProfile",
+    "customerProductServiceTypeUsage" : "customerProductServiceTypeUsage",
+    "productServiceType" : "productServiceType"
+  },
+  "customerEligibilityAssessmentRetrieveActionResponse" : "customerEligibilityAssessmentRetrieveActionResponse",
+  "customerEligibilityAssessmentRetrieveActionTaskReference" : "CEARATR727527",
+  "customerEligibilityAssessmentInstanceAnalysis" : {
+    "customerEligibilityAssessmentInstanceAnalysisReportType" : "customerEligibilityAssessmentInstanceAnalysisReportType",
+    "customerEligibilityAssessmentInstanceAnalysisReport" : {},
+    "customerEligibilityAssessmentInstanceAnalysisData" : "customerEligibilityAssessmentInstanceAnalysisData"
+  }
+}

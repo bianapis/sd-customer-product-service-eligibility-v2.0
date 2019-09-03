@@ -1,0 +1,8 @@
+{
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "customerEligibilityAssessmentGrantActionTaskReference" : "CEAGATR795892",
+  "customerEligibilityAssessmentGrantActionTaskRecord" : {},
+  "grantRequestRecordReference" : "GRRR705940"
+}

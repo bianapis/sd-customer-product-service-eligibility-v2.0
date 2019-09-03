@@ -1,0 +1,10 @@
+{
+  "nextBestInstanceRecord" : {
+    "requestedProductServiceProperties" : "requestedProductServiceProperties",
+    "customerProductServiceNextBestAssessmentResult" : "customerProductServiceNextBestAssessmentResult",
+    "productServiceType" : "productServiceType"
+  },
+  "nextBestUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "nextBestUpdateActionTaskReference" : "NBUATR792447"
+}

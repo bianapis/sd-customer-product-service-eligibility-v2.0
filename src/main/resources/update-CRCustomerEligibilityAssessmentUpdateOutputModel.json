@@ -1,0 +1,11 @@
+{
+  "date" : "09-22-2018",
+  "customerEligibilityAssessmentInstanceRecord" : {
+    "customerReference" : "754092",
+    "customerProductServiceProfile" : "customerProductServiceProfile",
+    "productServiceType" : "productServiceType"
+  },
+  "customerEligibilityAssessmentUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "customerEligibilityAssessmentUpdateActionTaskReference" : "CEAUATR782433"
+}

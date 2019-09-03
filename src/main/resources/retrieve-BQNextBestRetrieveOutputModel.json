@@ -1,0 +1,30 @@
+{
+  "date" : "09-22-2018",
+  "nextBestInstanceRecord" : {
+    "requestedProductServiceProperties" : "requestedProductServiceProperties",
+    "customerProductServiceNextBestAssessmentResult" : "customerProductServiceNextBestAssessmentResult",
+    "productServiceType" : "productServiceType"
+  },
+  "nextBestRetrieveActionTaskRecord" : {},
+  "nextBestInstanceReport" : {
+    "nextBestInstanceReport" : {},
+    "nextBestInstanceReportType" : "nextBestInstanceReportType",
+    "nextBestInstanceReportParameters" : "nextBestInstanceReportParameters",
+    "nextBestInstanceReportRecord" : {}
+  },
+  "customerEligibilityAssessmentInstanceRecord" : {
+    "customerProductServiceTypeEligibility" : "customerProductServiceTypeEligibility",
+    "customerReference" : "743842",
+    "customerProductServiceProfile" : "customerProductServiceProfile",
+    "customerProductServiceTypeUsage" : "customerProductServiceTypeUsage",
+    "productServiceType" : "productServiceType"
+  },
+  "nextBestRetrieveActionTaskReference" : "NBRATR789314",
+  "nextBestInstanceAnalysis" : {
+    "nextBestInstanceAnalysisParameters" : "nextBestInstanceAnalysisParameters",
+    "nextBestInstanceAnalysisRecord" : {},
+    "nextBestInstanceAnalysisReport" : {},
+    "nextBestInstanceAnalysisReportType" : "nextBestInstanceAnalysisReportType"
+  },
+  "nextBestRetrieveActionResponse" : "nextBestRetrieveActionResponse"
+}

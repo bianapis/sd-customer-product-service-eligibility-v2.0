@@ -1,0 +1,11 @@
+{
+  "date" : "09-22-2018",
+  "executeRecordReference" : "ERR705408",
+  "customerEligibilityAssessmentExecuteActionTaskReference" : "CEAEATR742705",
+  "executeResponseRecord" : {},
+  "customerEligibilityAssessmentInstanceRecord" : {
+    "customerProductServiceTypeEligibility" : "customerProductServiceTypeEligibility",
+    "customerProductServiceTypeUsage" : "customerProductServiceTypeUsage"
+  },
+  "customerEligibilityAssessmentExecuteActionTaskRecord" : {}
+}

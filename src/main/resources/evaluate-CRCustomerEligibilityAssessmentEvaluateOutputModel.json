@@ -1,0 +1,11 @@
+{
+  "date" : "09-22-2018",
+  "customerEligibilityAssessmentInstanceStatus" : "customerEligibilityAssessmentInstanceStatus",
+  "customerEligibilityAssessmentEvaluateActionReference" : "CEAEAR781025",
+  "customerEligibilityAssessmentInstanceRecord" : {
+    "customerProductServiceTypeEligibility" : "customerProductServiceTypeEligibility",
+    "customerProductServiceTypeUsage" : "customerProductServiceTypeUsage"
+  },
+  "customerEligibilityAssessmentInstanceReference" : "CEAIR780662",
+  "customerEligibilityAssessmentEvaluateActionRecord" : {}
+}
